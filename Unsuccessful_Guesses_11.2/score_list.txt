@@ -1,0 +1,1 @@
+[{"secret_number": 7, "name": "Jaka", "wrong_attempts": 3, "attempts": 4, "date": "2020-05-06 13:36:33.404676"}, {"secret_number": 17, "name": "Eva", "wrong_attempts": 9, "attempts": 10, "date": "2020-05-06 13:37:16.010174"}, {"secret_number": 7, "name": "Bojan", "wrong_attempts": 4, "attempts": 5, "date": "2020-05-06 13:37:51.325701"}]
